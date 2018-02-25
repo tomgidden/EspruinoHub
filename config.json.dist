@@ -26,4 +26,6 @@
     "username": "user",
     "password": "pass"
   }
+  "advertising_timeout": 10,
+  "restart_on_no_advertising": true
 }
